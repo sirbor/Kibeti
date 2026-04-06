@@ -35,7 +35,6 @@ Kibeti features a unique identity with:
 Experience the fluid, multi-step transaction flow:
 <p align="center">
   <img src="Screenshots/SEND_MONEY_ENTER_NO.PNG" width="180" title="Enter Number">
-  <img src="Screenshots/SEND_MONEY_ENTER_AMOUNT.PNG" width="180" title="Enter Amount">
   <img src="Screenshots/SEND_MONEY_CHECK_NAME.PNG" width="180" title="Verification">
   <img src="Screenshots/SEND_MONEY_CONFIRM.PNG" width="180" title="Final Confirmation">
   <img src="Screenshots/SEND_MONEY_CONFIRM_RECEIPT.PNG" width="180" title="Receipt">
