@@ -25,9 +25,10 @@ Kibeti features a unique identity with:
 
 ### Home & Navigation
 <p align="center">
-  <img src="Screenshots/HOME_SCREEN.PNG" width="250" title="Home Screen">
   <img src="Screenshots/HOME .PNG" width="250" title="Main Dashboard">
-  <img src="Screenshots/TRANSACTION_PAGE.PNG" width="250" title="Transaction Hub">
+  <img src="Screenshots/PIN_SCREEN.PNG" width="250" title="Secure PIN Entry">
+  <img src="Screenshots/HOME_SCREEN.PNG" width="250" title="Home Screen">
+  
 </p>
 
 ### The Sending Money Process
@@ -38,13 +39,15 @@ Experience the fluid, multi-step transaction flow:
   <img src="Screenshots/SEND_MONEY_CHECK_NAME.PNG" width="180" title="Verification">
   <img src="Screenshots/SEND_MONEY_CONFIRM.PNG" width="180" title="Final Confirmation">
   <img src="Screenshots/SEND_MONEY_CONFIRM_RECEIPT.PNG" width="180" title="Receipt">
+
 </p>
 
 ### Services & Growth
 <p align="center">
+  <img src="Screenshots/TRANSACTION_PAGE.PNG" width="250" title="Transaction Hub">
   <img src="Screenshots/SERVICES_PAGE.PNG" width="250" title="Services Marketplace">
   <img src="Screenshots/GROWTH.PNG" width="250" title="Savings & Growth">
-  <img src="Screenshots/PIN_SCREEN.PNG" width="250" title="Secure PIN Entry">
+  
 </p>
 
 ## 🛠 Tech Stack
