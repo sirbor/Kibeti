@@ -41,7 +41,7 @@ Experience the fluid, multi-step transaction flow:
 
 </p>
 
-### Services & Growth
+### Transact, Services & Growth
 <p align="center">
   <img src="Screenshots/TRANSACTION_PAGE.PNG" width="250" title="Transaction Hub">
   <img src="Screenshots/SERVICES_PAGE.PNG" width="250" title="Services Marketplace">
